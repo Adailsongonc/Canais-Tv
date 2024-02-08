@@ -2,7 +2,7 @@
 #EXTM3U
 ################################################################### Informações 
 
-#EXTINF:-1 tvg-logo="https://imgur.com/C09Ybxn.png" group-title="ATUALIZADO",07/02/2024
+#EXTINF:-1 tvg-logo="https://imgur.com/C09Ybxn.png" group-title="ATUALIZADO",08/02/2024
 Adailson.TV
 
 ################################################# ######################### Canais Adultos 
