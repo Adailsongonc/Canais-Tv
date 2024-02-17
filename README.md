@@ -2,7 +2,7 @@
 #EXTM3U
 ################################################################### Informações 
 
-#EXTINF:-1 tvg-logo="https://imgur.com/C09Ybxn.png" group-title="ATUALIZADO",11/02/2024
+#EXTINF:-1 tvg-logo="https://imgur.com/C09Ybxn.png" group-title="ATUALIZADO",17/02/2024
 09:25 horas 
 Adailson.TV
 
